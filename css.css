@@ -1,0 +1,68 @@
+h1 {
+    background-color: lightcoral;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: bisque;
+     text-align: center;
+    font-size: 300%;
+    text-shadow: 1px 1px 2px rosybrown, 0 0 1em red,0 0 0.2em red;
+}
+header {
+    background-color: deepskyblue;
+    font-family: fantasy;
+    color: aqua;
+    font-size: 150%;
+}
+h2 {
+    font-family: cursive;
+    color: deeppink;
+    text-align: center;
+    text-shadow: 1px 1px 2px rosybrown, 0 0 1em red,0 0 0.2em red;
+}
+p {
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-size: 150%;
+}
+table {
+    border-collapse: collapse;
+    margin: auto;
+}
+td, th {
+    border: 1px solid blue;
+    padding: 15px;
+}
+th {
+    background-color: bisque;
+}
+.index {
+    font-family: cursive;
+    color: darkslateblue;
+}
+.présentation {
+    font-family: cursive;
+    color: mediumseagreen;
+}
+.passions {
+    font-family: cursive;
+    color: brown;
+}
+.projet {
+    font-family: cursive;
+    color: coral;
+}
+footer {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: hotpink;
+    text-shadow: 1px 1px 2px rosybrown, 0 0 1em red,0 0 0.2em red;
+}
+a {
+    color: firebrick;
+}
+.parcours {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 150%;
+    text-align: center;
+    list-style-type: "\1F44D";
+    list-style-position: inside;
+}
+.sailor {
+}
